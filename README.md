@@ -1,40 +1,35 @@
-<h1 align="center"> Hi, I'm Manhihi 👋</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Manhihi;TypeScript+full+stack;Python+and+networking" alt="Manhihi" /></p>
 
-<!--
-**manhnh97/manhnh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">From Hanoi. I build web apps, Python tools, and the network around them.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/manhnh97?tab=repositories"><b>Repos</b></a>
+  ·
+  <a href="https://www.facebook.com/manhjisme"><b>Facebook</b></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages and tools</h3>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,react,postgres,redis,docker,cloudflare,workers,fastapi,py,bash,linux,git,github,vscode" alt="TypeScript, Next.js, Node.js, React, PostgreSQL, Redis, Docker, Cloudflare, Python, FastAPI, Bash, Linux, Git" />
+</p>
 
-<!-- Link for creating stats: https://github.com/anuraghazra/github-readme-stats  -->
-<br>
-<div align="center">
-    <a href="#" title="ManhNH97">
-        <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhnh97&langs_count=4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" >
-    </a>
-    <a href="#" title="ManhNH97">
-        <img width="420px" src="https://github-readme-stats.vercel.app/api?username=manhnh97&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true">
-    </a>
+<h3 align="center">What I work on</h3>
 
-</div>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+| Area | What it covers |
+| --- | --- |
+| **TypeScript** | Full-stack apps: Next.js dashboards, Node.js APIs, PostgreSQL, and monorepos. Bots and the admin site share one codebase. |
+| **Python** | Tools and services, including the TestFlight catalog and small scripts that stay easy to run. |
+| **Networking** | DNS and domain checks, proxy rules, and the path from a client request to a working service. |
 
-<!-- Link for creating quote: https://github.com/shravan20/github-readme-quotes -->
-<div align="center" >
+<h3 align="center">Public work</h3>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&animation=grow_out_in&layout=default&font=default)
-
-</div>
+| Project | What it is |
+| --- | --- |
+| [testflighty](https://github.com/manhnh97/testflighty) | Python catalog of TestFlight apps that are open to join |
+| [Testflight_Departures](https://github.com/manhnh97/Testflight_Departures) | Python companion for TestFlight link changes |
+| [TestFlightyBroadcastGroups](https://github.com/manhnh97/TestFlightyBroadcastGroups) | TypeScript broadcast groups |
+| [VocaMate](https://github.com/manhnh97/VocaMate) | English vocabulary helper: meaning, IPA, and bilingual examples |
+| [surge-scripts](https://github.com/manhnh97/surge-scripts) | JavaScript rules for the Surge proxy |
+| [PingDomainStatus](https://github.com/manhnh97/PingDomainStatus) | Python domain reachability checks |
+| [ScanDomainVulnerabilityofDNS](https://github.com/manhnh97/ScanDomainVulnerabilityofDNS) | Python DNS checks |
